@@ -1,0 +1,25 @@
+body{
+    background-color:cornflowerblue;
+}
+#camera{
+    width:360px;
+    height:250px;
+    border:1px solid grey;
+}
+#logo_img{
+    width:150px;
+    border-radius:100px;
+}
+img{
+    width:35%;
+    border-radius:4px;
+    padding:10px;
+    box-shadow:0 6px 8px 0 rgba(12, 8, 8, 0.591);
+}
+.column{
+    display:inline;
+    padding:10px;
+}
+img:hover{
+    border-radius:140px;
+}
